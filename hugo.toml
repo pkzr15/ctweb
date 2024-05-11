@@ -1,4 +1,4 @@
-baseurl = "https://ctweb.pages.dev/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+baseurl = "https://www.toncy-digital.com/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "Toncy Digital"
 theme = "universal"
 themesDir = "themes/"
