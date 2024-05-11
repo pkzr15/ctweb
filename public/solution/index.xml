@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solution on Toncy Digital</title>
+    <link>https://www.toncy-digital.com/solution/</link>
+    <description>Recent content in Solution on Toncy Digital</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 May 2024 23:22:36 +0800</lastBuildDate>
+    <atom:link href="https://www.toncy-digital.com/solution/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DVB Solution</title>
+      <link>https://www.toncy-digital.com/solution/dvb_solution/</link>
+      <pubDate>Sat, 04 May 2024 23:22:36 +0800</pubDate>
+      <guid>https://www.toncy-digital.com/solution/dvb_solution/</guid>
+      <description>DVB Solution Introduction Welcome to the future of broadcasting with our comprehensive Digital Video Broadcasting (DVB) end-to-end solution. From content creation to consumption, we offer a seamless ecosystem that integrates advanced head-end devices, sophisticated software systems, and innovative terminals. Let&amp;rsquo;s explore how our solution transforms every step of the broadcasting process.&#xA;Head-End Device Our state-of-the-art head-end device serves as the cornerstone of our DVB solution, incorporating essential components for content processing and distribution:</description>
+    </item>
+    <item>
+      <title>MW/SW Station DRM Digitalization</title>
+      <link>https://www.toncy-digital.com/solution/drm_upgrade/</link>
+      <pubDate>Fri, 03 May 2024 08:36:16 +0800</pubDate>
+      <guid>https://www.toncy-digital.com/solution/drm_upgrade/</guid>
+      <description>Toncy has launched an end-to-end DRM digital broadcasting solution, specifically designed for the digital transformation of MW/SW broadcast stations, covering everything from DRM front-end systems to various types of terminal receivers. With Toncy&amp;rsquo;s support, this one-stop solution facilitates a smooth transition from traditional to digital broadcasting for stations and operators.&#xA;The headend system includes:&#xA;DRM Encoder Multiplexer: Responsible for encoding audio and data content and generating multiplex streams according to DRM standards, ensuring high-quality transmission of broadcast content.</description>
+    </item>
+    <item>
+      <title>IPTV Total Solution</title>
+      <link>https://www.toncy-digital.com/solution/iptv/</link>
+      <pubDate>Fri, 03 May 2024 08:35:39 +0800</pubDate>
+      <guid>https://www.toncy-digital.com/solution/iptv/</guid>
+      <description>Toncy IPTV Total Solution Toncy provides a Total IPTV Solution with a complete package tailored for operators without prior IPTVexperience. This comprehensive solution includes a user-friendly Content Management System, robust DRM system, live streaming, video on demand, time-shift capabilities, catch-up TV, user management, CDN, Android set-top boxes, IPTV player, and a customizable launcher.&#xA;Importantly, the existing program sources from most DVB systems can be seamlessly integrated into our IPTV system. Additionally, we provide professional transcoding equipment to effortlessly convert program sources into the input streams required for IPTV.</description>
+    </item>
+  </channel>
+</rss>

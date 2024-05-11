@@ -1,0 +1,11 @@
+weight: 2
+title: "End-to-End DRM Broadcast Solution"
+description: >
+  <ul class="list-style-none">
+     <li>DRM Encoder / Multiplexer</li>
+     <li>DRM Exciter</li>
+     <li>DRM Receiver for Consumer, Car and Emergency</li>
+     <li>MW/SW Station Digitization</li>
+   </ul>
+image: "img/carousel/drm.png"
+href: "/solution/drm_upgrade/"

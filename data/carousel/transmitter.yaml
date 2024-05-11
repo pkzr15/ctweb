@@ -1,0 +1,13 @@
+weight: 1
+title: "DTV Transmitter"
+description: >
+  <ul class="list-style-none">
+    <li>Broadband DTV Transmitter</li>
+    <li>supports DVB-T/T2, DTMB, ISDB-T, ATSC-T</li>
+    <li>Wide Applicability</li>
+    <li>Exceptional Efficiency</li>
+    <li>Robust Stability</li>
+    <li>Outstanding Performance</li>
+  </ul>
+image: "img/carousel/transmitter.png"
+href: "/products/dtv_transmitter"

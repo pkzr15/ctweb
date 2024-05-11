@@ -1,0 +1,5 @@
+weight: 1
+name: "DTV HEADEND"
+icon: "fas fa-desktop"
+url: "/products/dtvheadend"
+description: "IRD, Encoder & Transcoder, Multiplexer & Scrambler, IP-QAM"
