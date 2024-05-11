@@ -99,7 +99,7 @@ div.section {
   margin-bottom: 20px !important;
 }
 .heading {
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 .heading h1,
 .heading h2,
@@ -192,7 +192,7 @@ ul.list-style-none {
   letter-spacing: 0.08em;
 }
 .pages-listing .item h3 a {
-  color: #555555;
+  color: #000000;
 }
 .pages-listing .item .text {
   margin-bottom: 20px;
@@ -243,7 +243,7 @@ ul.list-style-none {
   }
 }
 #top {
-  background: #555555;
+  background: #000000;
   color: #eeeeee;
   padding: 10px 0;
 }
@@ -309,14 +309,13 @@ ul.list-style-none {
   border-bottom: solid 1px #eeeeee;
 }
 #top.light .login a {
-  color: #555555;
+  color: #000000;
 }
 .navbar {
   border: none;
 }
 .navbar ul.nav > li > a {
   text-transform: uppercase;
-  text-decoration: underline;
   font-weight: bold;
   letter-spacing: 0.08em;
   border-top: solid 5px transparent;
@@ -341,7 +340,7 @@ ul.list-style-none {
 .navbar.navbar-light ul.nav > li.active > a {
   border-top: solid 5px var(--navbar-border-top);
   background: #fff !important;
-  color: #555555 !important;
+  color: #000000 !important;
 }
 .navbar.navbar-light ul.nav > li.active > a:hover {
   border-top: solid 5px var(--navbar-border-top);
@@ -352,7 +351,7 @@ ul.list-style-none {
 .navbar.navbar-light ul.nav > li.open > a:focus {
   border-top: solid 5px var(--primary-accent);
   background: #fff !important;
-  color: #555555 !important;
+  color: #000000 !important;
 }
 .navbar ul.dropdown-menu {
   margin: 0;
@@ -394,18 +393,18 @@ ul.list-style-none {
   text-transform: uppercase;
   padding-bottom: 10px;
   margin-top: 5px;
-  border-bottom: dotted 1px #555555;
+  border-bottom: dotted 1px #000000;
   letter-spacing: 0.08em;
 }
 @media (max-width: 767px) {
   .navbar .yamm-content h3 {
-    font-size: 14px;
+    font-size: 18px;
   }
 }
 .navbar .yamm-content h5 {
   text-transform: uppercase;
   padding-bottom: 10px;
-  border-bottom: dotted 1px #555555;
+  border-bottom: dotted 1px #000000;
   letter-spacing: 0.08em;
 }
 .navbar .yamm-content ul {
@@ -523,20 +522,20 @@ ul.list-style-none {
 /* buttons  */
 .btn {
   font-weight: 700;
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: "PT Sans", "Roboto", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   padding: 6px 12px;
   font-size: 13px;
-  line-height: 1.42857143;
+  line-height: 28px;
   border-radius: 0;
 }
 .input-group .btn {
-  font-size: 14px;
+  font-size: 18px;
 }
 .btn-lg {
   padding: 10px 16px;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 1.33;
   border-radius: 0;
 }
@@ -748,7 +747,7 @@ fieldset[disabled] .btn-template-primary.active {
   background-size: cover;
 }
 #intro .item {
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: "PT Sans", "Roboto", Helvetica, Arial, sans-serif;
   height: 100%;
 }
 #intro .item h1 {
@@ -783,7 +782,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 @media (max-width: 991px) {
   #intro .item .btn {
-    font-size: 14px;
+    font-size: 18px;
   }
 }
 @media (max-width: 991px) {
@@ -912,7 +911,7 @@ fieldset[disabled] .btn-template-primary.active {
   display: inline-block;
   width: 15px;
   height: 15px;
-  border: solid 1px #555555;
+  border: solid 1px #000000;
   vertical-align: top;
   margin-top: 2px;
   margin-left: 5px;
@@ -937,7 +936,7 @@ fieldset[disabled] .btn-template-primary.active {
   font-size: 12px;
 }
 .panel.sidebar-menu .panel-body label:hover {
-  color: #555555;
+  color: #000000;
 }
 .panel.sidebar-menu ul.nav.category-menu {
   margin-bottom: 20px;
@@ -946,7 +945,7 @@ fieldset[disabled] .btn-template-primary.active {
   letter-spacing: 0.08em;
 }
 .panel.sidebar-menu ul.nav.category-menu li a {
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: "PT Sans", "Roboto", Helvetica, Arial, sans-serif;
 }
 .panel.sidebar-menu ul.nav ul {
   list-style: none;
@@ -1089,7 +1088,7 @@ fieldset[disabled] .btn-template-primary.active {
   margin: 30px 10px 10px -71px;
   color: #fff;
   background-color: var(--primary-accent);
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: "PT Sans", "Roboto", Helvetica, Arial, sans-serif;
 }
 .ribbon .theribbon:before,
 .ribbon .theribbon:after {
@@ -1232,7 +1231,7 @@ fieldset[disabled] .btn-template-primary.active {
 @media (max-width: 991px) {
   .home-carousel ul,
   .home-carousel p {
-    font-size: 14px;
+    font-size: 18px;
   }
 }
 .home-carousel ul li {
@@ -1272,7 +1271,7 @@ fieldset[disabled] .btn-template-primary.active {
   list-style-type: none;
   margin: 0 5px;
   background: #fff;
-  padding-bottom: 60px;
+  padding-bottom: 20px;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -1324,7 +1323,7 @@ fieldset[disabled] .btn-template-primary.active {
   text-align: right;
 }
 .testimonials .item .testimonial .name-picture h5 {
-  font-size: 14px;
+  font-size: 18px;
   text-transform: uppercase;
   letter-spacing: 0.08em;
 }
@@ -1350,7 +1349,7 @@ fieldset[disabled] .btn-template-primary.active {
   letter-spacing: 0.08em;
 }
 .team-member h3 a {
-  color: #555555;
+  color: #000000;
 }
 .team-member p.role {
   color: #999999;
@@ -1460,12 +1459,12 @@ fieldset[disabled] .btn-template-primary.active {
   font-size: 18px;
   text-transform: uppercase;
   line-height: 1.5;
-  color: #555555;
+  color: #000000;
   font-weight: 800;
   letter-spacing: 0.08em;
 }
 .box-simple h3 a {
-  color: #555555;
+  color: #000000;
 }
 .box-simple p {
   color: #999999;
@@ -1487,14 +1486,14 @@ fieldset[disabled] .btn-template-primary.active {
   border: dotted 1px #999999;
 }
 .box-simple.box-white .icon {
-  color: #555555;
+  color: #000000;
   border-color: transparent;
   font-size: 70px;
 }
 .box-simple.box-dark {
   padding: 20px;
   border: dotted 1px #999999;
-  background: #555555;
+  background: #000000;
   color: #fff;
 }
 .box-simple.box-dark .icon {
@@ -1649,7 +1648,7 @@ fieldset[disabled] .btn-template-primary.active {
 .box-image-text .content h4 {
   text-transform: uppercase;
   line-height: 1.5;
-  color: #555555;
+  color: #000000;
   font-weight: 800;
   letter-spacing: 0.08em;
 }
@@ -1778,7 +1777,7 @@ fieldset[disabled] .btn-template-primary.active {
   background: #eeeeee;
 }
 .bar.background-gray-dark {
-  background: #555555;
+  background: #000000;
 }
 .bar.background-white {
   background: #fff;
@@ -1830,11 +1829,11 @@ fieldset[disabled] .btn-template-primary.active {
   margin: 0 -15px;
 }
 .portfolio-project .project-more h4 {
-  color: #555555;
+  color: #000000;
   text-transform: uppercase;
   margin-bottom: 0;
   text-align: left;
-  font-size: 14px;
+  font-size: 18px;
   letter-spacing: 0.08em;
 }
 .portfolio-project .project-more p {
@@ -1852,7 +1851,7 @@ fieldset[disabled] .btn-template-primary.active {
   letter-spacing: 0.08em;
 }
 .portfolio-showcase p.lead {
-  color: #555555;
+  color: #000000;
   margin-bottom: 20px;
 }
 .portfolio-showcase p {
@@ -1878,13 +1877,13 @@ fieldset[disabled] .btn-template-primary.active {
   display: inline-block;
   width: 50px;
   height: 50px;
-  color: #555555;
+  color: #000000;
   line-height: 50px;
   border-radius: 25px;
-  border: solid 1px #555555;
+  border: solid 1px #000000;
 }
 .showcase .item h4 {
-  color: #555555;
+  color: #000000;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   line-height: 1.5;
@@ -1921,7 +1920,7 @@ fieldset[disabled] .btn-template-primary.active {
   background: #eeeeee;
 }
 .packages .package .package-header.light-gray h5 {
-  color: #555555;
+  color: #000000;
 }
 .packages .package .price {
   line-height: 120px;
@@ -1998,7 +1997,7 @@ fieldset[disabled] .btn-template-primary.active {
 #blog-homepage .post h2 a,
 #blog-listing-big .post h4 a,
 #blog-homepage .post h4 a {
-  color: #555555;
+  color: #000000;
 }
 #blog-listing-big .post h2 a:hover,
 #blog-homepage .post h2 a:hover,
@@ -2071,7 +2070,7 @@ fieldset[disabled] .btn-template-primary.active {
   letter-spacing: 0.08em;
 }
 #blog-listing-medium .post h2 a {
-  color: #555555;
+  color: #000000;
 }
 #blog-listing-medium .post h2 a:hover {
   color: var(--primary-accent);
@@ -2213,7 +2212,7 @@ fieldset[disabled] .btn-template-primary.active {
   font-size: 12px;
 }
 #blog-post .comment .reply {
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: "PT Sans", "Roboto", Helvetica, Arial, sans-serif;
 }
 #blog-post .comment.last {
   margin-bottom: 0;
@@ -2280,14 +2279,14 @@ fieldset[disabled] .btn-template-primary.active {
   padding: 10px;
 }
 .product .text h3 {
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 700;
   height: 39.6px;
   text-transform: uppercase;
   letter-spacing: 0.08em;
 }
 .product .text h3 a {
-  color: #555555;
+  color: #000000;
 }
 .product .text h3 a:hover {
   text-decoration: none;
@@ -2341,7 +2340,6 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .goToDescription a {
   color: #999999;
-  text-decoration: underline;
 }
 #productMain {
   margin-bottom: 30px;
@@ -2362,10 +2360,10 @@ fieldset[disabled] .btn-template-primary.active {
   border-radius: 40px;
   background: #ccc;
   line-height: 40px;
-  color: #555555;
+  color: #000000;
   text-align: center;
   text-decoration: none;
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: "PT Sans", "Roboto", Helvetica, Arial, sans-serif;
 }
 #productMain .sizes a.active,
 #productMain .sizes a:hover {
@@ -2457,7 +2455,7 @@ fieldset[disabled] .btn-template-primary.active {
 #order-summary table tr.total td,
 #order-summary table tr.total th {
   font-size: 18px;
-  color: #555555;
+  color: #000000;
   font-weight: 700;
 }
 #checkout .table tbody tr td,
@@ -2526,9 +2524,9 @@ fieldset[disabled] .btn-template-primary.active {
   margin: 0 0 20px;
 }
 #footer {
-  background: #555555;
+  background: #1c549f;
   padding: 50px 0;
-  color: #999999;
+  color: #FFFFFF;
 }
 #footer h1,
 #footer h2,
@@ -2539,7 +2537,7 @@ fieldset[disabled] .btn-template-primary.active {
   color: #eeeeee;
 }
 #footer h4 {
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 800;
   text-transform: uppercase;
   letter-spacing: 0.08em;
@@ -2583,7 +2581,7 @@ fieldset[disabled] .btn-template-primary.active {
   clear: both;
   padding: 5px 0;
   margin-bottom: 10px;
-  border-bottom: solid 1px #555555;
+  border-bottom: solid 1px #000000;
 }
 #footer .blog-entries .item .image {
   float: left;
@@ -2614,7 +2612,7 @@ fieldset[disabled] .btn-template-primary.active {
   margin-bottom: 0;
 }
 #footer .social a {
-  color: #555555;
+  color: #000000;
   font-size: 25px;
   margin: 0 10px 0 0;
 }
@@ -2671,7 +2669,7 @@ fieldset[disabled] .btn-template-primary.active {
 /* Original Boostrap template overwrite */
 /* breadcrumbs */
 .breadcrumb {
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: "PT Sans", "Roboto", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   background-color: none;
   letter-spacing: 0.08em;
@@ -2706,7 +2704,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .nav-tabs > li > a {
   margin-right: 2px;
-  line-height: 1.42857143;
+  line-height: 28px;
   border: 1px solid transparent;
   border-radius: 0 0 0 0;
 }
@@ -2716,7 +2714,7 @@ fieldset[disabled] .btn-template-primary.active {
 .nav-tabs > li.active > a,
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
-  color: #555555;
+  color: #000000;
   background-color: #ffffff;
   border: 1px solid var(--primary-accent);
   border-bottom-color: transparent;
@@ -3083,7 +3081,7 @@ fieldset[disabled] .btn-template-primary.active {
   border-bottom: none;
 }
 .navbar-default .navbar-brand {
-  color: #555555;
+  color: #000000;
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
@@ -3094,11 +3092,11 @@ fieldset[disabled] .btn-template-primary.active {
   color: #777777;
 }
 .navbar-default .navbar-nav > li > a {
-  color: #555555;
+  color: #000000;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #555555;
+  color: #000000;
   background-color: var(--navbar-focus);
 }
 .navbar-default .navbar-nav > .active > a,
@@ -3135,7 +3133,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 @media (max-width: 767px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
-    color: #555555;
+    color: #000000;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
@@ -3155,17 +3153,17 @@ fieldset[disabled] .btn-template-primary.active {
   }
 }
 .navbar-default .navbar-link {
-  color: #555555;
+  color: #000000;
 }
 .navbar-default .navbar-link:hover {
-  color: #555555;
+  color: #000000;
 }
 .navbar-default .btn-link {
-  color: #555555;
+  color: #000000;
 }
 .navbar-default .btn-link:hover,
 .navbar-default .btn-link:focus {
-  color: #555555;
+  color: #000000;
 }
 .navbar-default .btn-link[disabled]:hover,
 fieldset[disabled] .navbar-default .btn-link:hover,
@@ -3175,10 +3173,10 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 }
 /* scaffolding */
 body {
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
-  font-size: 14px;
-  line-height: 1.42857143;
-  color: #555555;
+  font-family: "PT Sans", "Roboto", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  color: #000000;
 }
 a {
   color: var(--primary-accent);
@@ -3187,7 +3185,6 @@ a {
 a:hover,
 a:focus {
   color: var(--link-focus);
-  text-decoration: underline;
 }
 a:focus {
   outline: thin dotted;
@@ -3213,7 +3210,7 @@ hr {
 }
 .breadcrumb > li + li:before {
   content: ">\00a0";
-  color: #555555;
+  color: #000000;
 }
 .breadcrumb > .active {
   color: #999999;
@@ -3227,7 +3224,7 @@ hr {
 /* dropdowns */
 .dropdown-menu {
   z-index: 1000;
-  font-size: 14px;
+  font-size: 18px;
   background-color: #ffffff;
   border: 1px solid #cccccc;
   border: 1px solid rgba(0, 0, 0, 0.15);
@@ -3247,13 +3244,13 @@ hr {
 }
 .dropdown-menu > li > a {
   padding: 5px 20px;
-  line-height: 1.42857143;
+  line-height: 28px;
   color: #333333;
   white-space: nowrap;
 }
 /* labels */
 .label {
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: "PT Sans", "Roboto", Helvetica, Arial, sans-serif;
   font-weight: normal;
   text-transform: uppercase;
   letter-spacing: 0.08em;
@@ -3283,7 +3280,7 @@ label {
   padding-top: 20px;
   text-transform: uppercase;
   letter-spacing: 0.08em;
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: "PT Sans", "Roboto", Helvetica, Arial, sans-serif;
 }
 .pager li {
   display: inline;
@@ -3311,13 +3308,13 @@ label {
 /* pagination */
 .pagination {
   margin: 20px 0;
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: "PT Sans", "Roboto", Helvetica, Arial, sans-serif;
   border-radius: 0;
 }
 .pagination > li > a,
 .pagination > li > span {
   padding: 6px 12px;
-  line-height: 1.42857143;
+  line-height: 28px;
   text-decoration: none;
   color: var(--primary-accent);
   background-color: #ffffff;
@@ -3386,7 +3383,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: "PT Sans", "Roboto", Helvetica, Arial, sans-serif;
   font-weight: 900;
   line-height: 1.1;
   color: #333333;
@@ -3441,7 +3438,7 @@ abbr[data-original-title] {
 blockquote {
   padding: 10px 20px;
   margin: 0 0 20px;
-  font-size: 14px;
+  font-size: 18px;
   border-left: 5px solid var(--primary-accent);
 }
 blockquote footer,
@@ -3449,7 +3446,7 @@ blockquote small,
 blockquote .small {
   display: block;
   font-size: 80%;
-  line-height: 1.42857143;
+  line-height: 28px;
   color: #999999;
 }
 blockquote footer:before,
@@ -3463,7 +3460,7 @@ blockquote.pull-right {
 }
 address {
   margin-bottom: 20px;
-  line-height: 1.42857143;
+  line-height: 28px;
 }
 .panel {
   margin-bottom: 20px;

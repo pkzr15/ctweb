@@ -14,3 +14,194 @@
 .box-simple {
     min-height: 230px;
 }
+
+.horizontal-layout {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding-left: 10px; /* 调整为需要的大小 */
+    padding-right: 10px; /* 调整为需要的大小 */
+}
+
+.horizontal-layout > div {
+    margin-left: 0px; /* 设置左边距 */
+    margin-right: 0px; /* 设置右边距 */
+}
+
+.horizontal-layout > div:first-child {
+    flex: 1 0 50%; /* 使第一个div占据更多的空间 */
+}
+
+.horizontal-layout > div:last-child {
+    flex: 1 0 50%; /* 使第二个div占据较少的空间 */
+}
+
+.horizontal-layout-products {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 10px; /* 调整为需要的大小 */
+    padding-right: 10px; /* 调整为需要的大小 */
+}
+
+.horizontal-layout-products > div {
+    margin-left: 0px; /* 设置左边距 */
+    margin-right: 0px; /* 设置右边距 */
+}
+
+.horizontal-layout-products > div:first-child {
+    flex: 1 0 50%; /* 使第一个div占据更多的空间 */
+}
+
+.horizontal-layout-products > div:last-child {
+    flex: 1 0 50%; /* 使第二个div占据较少的空间 */
+}
+
+
+.horizontal-layout-aboutus {
+    display: flex;
+    justify-content: space-evenly; /* 按需调整，这会在两个子元素之间添加空间 */
+    align-items: center; /* 如果希望子元素在顶部对齐 */
+}
+
+.horizontal-layout-aboutus > div:first-child {
+    width: 60%; /* 设置第一个div的宽度 */
+    padding-right: 60px; /* 如果需要在两个div之间添加间隔 */
+}
+
+.horizontal-layout-aboutus > div:last-child {
+    width: 40%; /* 设置第二个div的宽度 */
+}
+
+.text {
+    flex: 1;
+    margin-right: 20px; /* 可根据需要调整间距 */
+}
+
+.image img {
+    max-width: 100%;
+    height: auto;
+}
+
+###.container#contact {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#footer {
+	margin-top: 60px;
+}
+
+.testimonial h3 {
+    display: inline; /* 让h3标签和图标在同一行显示 */
+    margin-bottom: 20px; /* 在图标和文本之间添加一些空间 */
+}
+
+.fas {
+    vertical-align: middle; /* 调整图标的垂直对齐，使其与文本居中对齐 */
+}
+
+.responsive-image {
+    width: 50%;  /* 或者可以是固定的像素值，如300px */
+    height: auto;
+}
+
+.product-bottom-container {
+    display: flex;
+    justify-content: space-around; /* 确保两个区块在容器中水平分布 */
+    width: 100%; /* 容器宽度 */
+    margin-top:80px;
+}
+
+.section {
+    width: 48%; /* 每个区块占据大约一半的宽度 */
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1); /* 添加阴影效果 */
+    background-color: #fff; /* 背景色 */
+}
+
+.section h2 {
+    border-bottom: 1px solid #ccc; /* 标题下的边线 */
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.section ul {
+    list-style: none; /* 去除默认的列表样式 */
+    padding: 0;
+}
+
+.section li a {
+    text-decoration: none; /* 去除链接下划线 */
+    color: #000; /* 链接颜色 */
+    font-size: 16px;
+}
+
+.section li:not(:last-child) {
+    margin-bottom: 10px; /* 每个链接之间的间距 */
+}
+
+.section.empty {
+    visibility: hidden; /* 隐藏空白区块但保留占位 */
+}
+
+.fas.fa-file-pdf {
+    color: red; /* 设置图标颜色为红色 */
+    margin-right: 10px; /* 在图标和链接文本之间添加一些空间 */
+    font-size: 1.0em; /* 调整图标大小，可根据需要修改 */
+}
+
+
+.product-list-container {
+    display: flex;
+    align-items: center;
+    width: 100%; /* 根据需要调整宽度 */
+    padding: 20px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    margin-bottom: 20px;
+}
+
+.product-list-image {
+    flex: 0 0 auto; /* 不允许图片区域伸缩 */
+    width: 300px; /* 根据图片实际尺寸调整 */
+    padding-right: 20px;
+}
+
+.product-list-image img {
+    width: 80%; /* 让图片充满容器 */
+    height: auto;
+}
+
+.product-list-details {
+    flex: 1; /* 允许详情区域填满剩余空间 */
+}
+
+.product-list-details h1 {
+    margin-top: 0;
+    font-size: 24px; /* 根据需要调整字体大小 */
+}
+
+.product-list-details p {
+    font-size: 16px;
+    color: #666; /* 字体颜色 */
+}
+
+.product-list-button {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: white;
+    color: #666;
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid black; 
+    border-radius: 5px; 
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.product-list-button:hover {
+    background-color: #29559a; /* 悬停时的背景颜色 */
+    color: white; /* 悬停时的文字颜色 */
+    text-decoration: none;
+}
