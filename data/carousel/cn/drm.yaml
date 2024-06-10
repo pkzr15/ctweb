@@ -1,0 +1,11 @@
+weight: 2
+title: "DRM端到端解决方案"
+description: >
+  <ul class="list-style-none">
+    <li>DRM编码器/复用器</li>
+    <li>DRM激励器</li>
+    <li>消费者、汽车和应急用DRM接收机</li>
+    <li>中波/短波电台数字化</li>
+   </ul>
+image: "img/carousel/drm.png"
+href: "/solution/drm_upgrade/"

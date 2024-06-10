@@ -1,0 +1,5 @@
+weight: 1
+name: "DTV 头端设备"
+icon: "fas fa-desktop"
+url: "/cn/products/dtvheadend"
+description: "IRD, 编码器 & 转码器, 复用器 & 加扰器, IP-QAM"
