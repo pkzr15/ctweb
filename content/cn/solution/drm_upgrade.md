@@ -13,7 +13,7 @@ draft = false
 
 **前端系统包括：**
 - **DRM编码复用器**：负责编码音频和数据内容，并根据DRM标准生成复用流，确保广播内容的高质量传输。
-- **DRM激励器**：将DRM MDI/DCP格式的复用流转换为I/Q或RF信号，适应现代数字广播传输需求。
+- **DRM调制器**：将DRM MDI/DCP格式的复用流转换为I/Q或RF信号，适应现代数字广播传输需求。
 - **DRM适配器**：为传统的EER发射机（如PDM、DX、PSM）设计，支持数字化转型，解决数字化过程中遇到的幅度-相位调制问题，并确保音频和相位路径之间的精确时序对齐，提高传输效率和信号质量。
 
 **接收机涵盖多种类型：**
@@ -28,12 +28,12 @@ draft = false
     <div class="section links">
         <h2>相关产品</h2>
         <ul>
-            <li><a href="/products/drm_encoder/">GQ-3772 DRM编码器/复用器</a></li>
-            <li><a href="/products/drm_exciter/">GQ-3770 DRM激励器</a></li>
-            <li><a href="/products/drm_exciter#gq-3771-mwsw-transmitter-drm-adapter">GQ-3771 MW/SW发射机DRM适配器</a></li>
-            <li><a href="/products/drm_consumer_receiver/">DRM消费级接收机</a></li>
-            <li><a href="/products/drm_car_receiver/">DRM车载接收机</a></li>
-            <li><a href="/products/drm_ewf_receiver/">DRM紧急接收机</a></li>
+            <li><a href="/cn/products/drm_encoder/">GQ-3772 DRM编码器/复用器</a></li>
+            <li><a href="/cn/products/drm_exciter/">GQ-3770 DRM调制器</a></li>
+            <li><a href="/cn/products/drm_exciter#gq-3771-mwsw-transmitter-drm-adapter">GQ-3771 中短波发射机DRM适配器</a></li>
+            <li><a href="/cn/products/drm_consumer_receiver/">DRM消费级接收机</a></li>
+            <li><a href="/cn/products/drm_car_receiver/">DRM车载接收机</a></li>
+            <li><a href="/cn/products/drm_ewf_receiver/">DRM紧急接收机</a></li>
         </ul>
     </div>
     <div class="section downloads" style="visibility: hidden;">

@@ -31,8 +31,8 @@ Additionally, Toncy's DRM solution includes comprehensive technical support and 
         <h2>Related Products</h2>
         <ul>
             <li><a href="/products/drm_encoder/">GQ-3772 DRM Encoder / Multiplexer</a></li>
-            <li><a href="/products/drm_exciter/">GQ-3770 DRM Exciter</a></li>
-            <li><a href="/products/drm_exciter#gq-3771-mwsw-transmitter-drm-adapter">GQ-3771 MW/SW Transmitter DRM Adapter</a></li>
+            <li><a href="/products/drm_modulator/">GQ-3770 DRM Exciter</a></li>
+            <li><a href="/products/drm_modulator#gq-3771-mwsw-transmitter-drm-adapter">GQ-3771 MW/SW Transmitter DRM Adapter</a></li>
             <li><a href="/products/drm_consumer_receiver/">DRM Consumer Receivers</a></li>
             <li><a href="/products/drm_car_receiver/">DRM Car Receivers</a></li>
             <li><a href="/products/drm_ewf_receiver/">DRM Emergency Receivers</a></li>

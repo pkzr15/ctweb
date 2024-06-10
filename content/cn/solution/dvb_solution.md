@@ -51,11 +51,11 @@ draft = false
     <div class="section links">
         <h2>相关产品</h2>
         <ul>
-            <li><a href="/products/ipqam/">IPQAM调制器</a></li>
-            <li><a href="/products/video_encoder/">SD/HD视频编码器</a></li>
-            <li><a href="/products/cas/">VisionCrypt®条件接收系统</a></li>
-            <li><a href="/products/dtv_ad_system/">GS-9350广告广播系统</a></li>
-            <li><a href="/products/dvb_stb/">DVB机顶盒</a></li>
+            <li><a href="/cn/products/ipqam/">IPQAM调制器</a></li>
+            <li><a href="/cn/products/video_encoder/">SD/HD视频编码器</a></li>
+            <li><a href="/cn/products/cas/">VisionCrypt®条件接收系统</a></li>
+            <li><a href="/cn/products/dtv_ad_system/">GS-9350广告广播系统</a></li>
+            <li><a href="/cn/products/dvb_stb/">DVB机顶盒</a></li>
         </ul>
     </div>
     <div class="section downloads" style="visibility: hidden;">

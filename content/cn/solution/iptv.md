@@ -117,8 +117,8 @@ draft = false
     <div class="section related">
         <h2>相关产品</h2>
         <ul>
-            <li><a href="/products/transcoder">GN-1792视频转码器</a></li>
-            <li><a href="/products/video_encoder">GN-1846视频编码器</a></li>
+            <li><a href="/cn/products/transcoder">GN-1792视频转码器</a></li>
+            <li><a href="/cn/products/video_encoder">GN-1846视频编码器</a></li>
         </ul>
     </div>
 </div>
