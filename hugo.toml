@@ -6,6 +6,11 @@ languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 
+[sitemap]
+  changefreq = 'monthly'
+  priority = 0.5
+  filename = 'sitemap.xml'
+
 [Languages]
   [Languages.en]
     languageName = "en"
@@ -560,3 +565,5 @@ pluralizelisttitles = false
 
 [markup.goldmark.renderer]
   unsafe = true
+
+
