@@ -22,7 +22,7 @@ defaultContentLanguage = "en"
         [[Languages.en.menu.main]]
             name       = "Products"
             identifier = "menu.products"
-            url        = "/img/template-easy-customize.png"
+            url        = "/img/template-easy-customize.jpg"
             weight     = 1
         [[Languages.en.menu.main]]
             name       = "Transmitters"
@@ -186,7 +186,7 @@ defaultContentLanguage = "en"
         [[Languages.cn.menu.main]]
             name       = "产品"
             identifier = "menu.products"
-            url        = "/img/template-easy-customize.png"
+            url        = "/img/template-easy-customize.jpg"
             weight     = 1
         [[Languages.cn.menu.main]]
             name       = "发射机"
