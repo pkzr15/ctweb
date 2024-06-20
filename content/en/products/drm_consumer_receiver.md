@@ -6,16 +6,20 @@ draft = false
 
 ## DRM Consumer Receivers
 
-Since 2006, the digital audio broadcasting research and development team at Toncy has been dedicated to advancing digital broadcasting technology. We specialize in the development, manufacturing, and sales of digital audio broadcast receivers. Our team has successfully launched several consumer-grade digital audio receivers, including some global firsts that have pioneered new territories in digital audio broadcast receiver technology.
+DRM (Digital Radio Mondiale) is a groundbreaking digital transmission system applicable to long wave, medium wave, short wave, and FM bands. Utilizing advanced signal encoding and compression techniques along with increased channel bandwidth, DRM significantly enhances the audio quality of AM and FM broadcasts. This technological leap is a potential game-changer for radio enthusiasts and broadcasters.
 
-Our consumer receivers are designed for radio enthusiasts and everyday users alike, suitable for home use and portable enough for daily carry. They deliver a high-quality information consumption and entertainment experience with a focus on cost-effectiveness. For example, our DRM receivers are primarily aimed at serving vast or populous developing nations with affordable, high-quality information experiences. Following this philosophy, in recent years, we have introduced several models in the GR series, such as the GR-216 and the GR-224/226/228, including the GR-221.
+Toncy, a subsidiary of Gospell, has been actively involved in the development of DRM since 2006, continuing to innovate in this field. Our research and development team specializes in the advancement of digital broadcasting technology, focusing on the design, manufacturing, and sales of various DRM receivers. We were pioneers in launching multiple revolutionary DRM receivers globally and actively participate in broadcasting tests worldwide.
 
-Each of these receivers features a high-performance silicon tuner at its core, supporting medium wave, shortwave, and FM bands for DRM broadcasts, as well as Journaline data news services and DRM emergency broadcast alerts. Over the years, our products have been embraced by consumers globally, with sales extending across multiple countries and regions. They are widely used in DRM broadcast testing and remote education projects, earning acclaim from consumers, broadcasters, and regulatory bodies alike.
+Our consumer receivers, such as the GR series including the GR-216, GR-224/226/228, and GR-221, are designed for both radio enthusiasts and everyday users. These models are suitable for home use and portable enough for daily carry, offering a high-quality information and entertainment experience. Featuring high-performance silicon tuners, they support medium wave, shortwave, and FM bands for DRM broadcasts, Journaline data news services, and DRM emergency broadcast alerts.
+
+Our DRM radio are aimed at providing affordable, high-quality information experiences, especially in vast or populous developing nations. Over the years, our products have gained global recognition, with sales extending across multiple countries and regions. They are widely used in DRM broadcast testing and remote education projects, earning acclaim from consumers, broadcasters, and regulatory bodies alike.
+
+We believe that DRM is the future of audio broadcasting, and we are continually working towards making this vision a reality.
 
 <br><br>
 <div class="horizontal-layout-products">
 	<div>
-        <img src="/img/products/GR-221.png" alt="描述" class="responsive-image">
+        <img src="/img/products/GR-221.png" alt="DRM Radio GR-221" class="responsive-image">
     </div>
     <div>
         <p><b>GR-221 Pocket Radio</b></p>
@@ -37,7 +41,7 @@ Each of these receivers features a high-performance silicon tuner at its core, s
 <br>
 <div class="horizontal-layout-products">
 	<div>
-        <img src="/img/products/GR-22468.png" alt="描述" class="responsive-image">
+        <img src="/img/products/GR-22468.png" alt="DRM Radio GR-22x series" class="responsive-image">
     </div>
     <div>
         <p><b>GR-224/226/228 Portable Radio</b></p>
@@ -65,7 +69,7 @@ Each of these receivers features a high-performance silicon tuner at its core, s
 <br>
 <div class="horizontal-layout-products">
 	<div>
-        <img src="/img/products/GR-216.png" alt="描述" class="responsive-image">
+        <img src="/img/products/GR-216.png" alt="DRM Radio GR-216" class="responsive-image">
     </div>
     <div>
         <p><b>GR-216 Desktop DRM Receiver</b></p>
